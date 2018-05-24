@@ -1,0 +1,14 @@
+itemGroup.tabOptics=Thermal Workings - Optics
+
+item.lens.name=Lens
+item.aqua_lens.name=Aqua Lens
+item.blue_lens.name=Blue Lens
+item.green_lens.name=Green Lens
+item.lime_lens.name=Lime Lens
+item.magenta_lens.name=Magenta Lens
+item.orange_lens.name=Orange Lens
+item.pink_lens.name=Pink Lens
+item.red_lens.name=Red Lens
+item.thermium_lens.name=Thermium Lens
+item.white_lens.name=White Lens
+item.yellow_lens.name=Yellow Lens

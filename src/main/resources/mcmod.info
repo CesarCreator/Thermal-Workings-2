@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tw2",
+  "name": "Thermal Workings II",
+  "description": "The second take on Thermal Workings.",
+  "version": "Public Alpha 1",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheDarkLord1459"],
+  "credits": "...",
+  "logoFile": "icon.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
